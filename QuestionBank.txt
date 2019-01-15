@@ -1,0 +1,209 @@
+1	The state in USA that has the most average annual rainfall is
+a	Mississippi
+b	Alaska
+c	Alabama
+d	Louisiana
+d	
+2	The state in USA that has the least average annual rainfall is
+a	New Mexico
+b	Arizona
+c	Nevada
+d	Colorado
+b	
+3	The term "Latin America" most accurately refers to the
+a	areas of the Western Hemisphere south of the United States
+b	countries that belong to the Organization of American States
+c	continents of North and South America
+d	countries that have close economic ties with Spain
+a	
+4	Population data from the census of 2010 was used to determine the number of
+a	states in the Union
+b	Senators from each state
+c	electoral college votes from each state
+d	Supreme Court justices
+c	
+5	What is the name of the lake formed by the Hoover Dam on the Colorado River?
+a	Lake Mead
+b	Lake Tahoe
+c	Great Salt Lake
+d	Owens Lake
+a	
+6	A major result of the Civil War was that the
+a	economic system of the South came to dominate the United States economy
+b	Federal Government's power over the States was strengthened
+c	members of Congress from Southern States gained control of the legislative branch
+d	nation's industrial development came to a standstill
+b	
+7	Which city is paired with the geographical feature that directly contributed to its growth?
+a	San Francisco -- Rocky Mountains
+b	Cleveland -- Atlantic Coastal Plain
+c	Pittsburgh -- Hudson River
+d	New Orleans -- Mississippi River
+d	
+8	Which region of the United States is correctly paired with an industry that is dominant in that region?
+a	Southwest -- timber
+b	Pacific Northwest -- citrus crops
+c	Great Plains -- grain crops
+d	Atlantic Coastal Plain -- iron mining
+c	
+9	Which part of the US Government was instituted to respond most directly to the will of the people?
+a	Presidency
+b	Supreme Court
+c	Senate
+d	House of Representatives
+d	
+10	A major cause of the internment of Japanese Americans during World War II was
+a	national segregation policies
+b	immigration quotas
+c	racial prejudice
+d	economic depression
+c	
+11	Which is the largest sugar producing country in the world?
+a	USA
+b	India
+c	Cuba
+d	Brazil
+d	
+12	What is the capital of Morocco?
+a	Casablanca
+b	Marrakesh
+c	Tangier
+d	Rabat
+d	
+15	We gain a day when crossing the international Date Line from
+a	West to east
+b	East to west
+c	North to south
+d	South to north
+b	
+16	Colombo is the capital of
+a	Bolivia
+b	Colombia
+c	Sri Lanka
+d	Thailand
+c	
+17	The archeological site Chichen Itza is located in
+a	Mexico
+b	Belize
+c	Guatemala
+d	Honduras
+a	
+18	On which of the cities was the first atomic bomb dropped by the United States in 1945?
+a	Yamaguchi
+b	Nagoya
+c	Hiroshima
+d	Osaka
+c	
+19	The equatorial radius of the earth is approximately
+a	12,700 km
+b	6,400 km
+c	7,900 km
+d	11,600 km
+b	
+20	The longest canal in the world is
+a	Panama Canal
+b	Beloye-More Baltic
+c	Suez Canal
+d	Grand China Canal
+d	
+21	The third President of the United States was
+a	James Monroe
+b	Thomas Jefferson
+c	John Adams
+d	James Madison
+b	
+22	United States Declaration of Independence was adopted by the Continental Congress  in
+a	1760
+b	1812
+c	1789
+d	1776
+d	
+23	The Gettysburg Address by U.S. President Abraham Lincoln was delivered in Gettysburg of
+a	Virginia
+b	Maryland
+c	Pennsylvania
+d	New York
+c	
+24	The only Amendment of the United States Constitution that was repealed by a later Amendment was about
+a	prohibition of alcoholic beverages
+b	right to bear arms
+c	procedure for electing the President and Vice President
+d	direct election of United States Senators by popular vote
+a	
+25	The speed of sound is about
+a	250 meters per second
+b	340 meters per second
+c	1000 meters per second
+d	600 meters per second
+b	
+26	What is the lighest chemical element (in atomic mass) in the periodic table?
+a	Nitrogen
+b	Helium
+c	Oxygen
+d	Hydrogen
+d	
+27	The minimum speed needed to escape the Earth is about
+a	5.4 km per second
+b	8.5 km per second
+c	11.2 km per second
+d	26.7 km per second
+c	
+28	The Japanese Instrument of Surrender that officially ended the World War II was signed
+a	on Midway Island, north Pacific Ocean
+b	on board USS Missouri
+c	in Tokyo
+d	in Honolulu, Hawaii
+b	
+29	United States purchased the territory of Louisiana (Louisiana Purchase) from
+a	France
+b	United Kingdom
+c	Spain
+d	Mexico
+a	
+30	How much of the Earth is covered with water?
+a	50%
+b	60%
+c	70%
+d	80%
+c	
+31	A flight takes 5 hours from DTW to LAX. If the flight departs at DTW at 12 noon, when will it arrive at LAX?
+a	5:00 PM
+b	4:00 PM
+c	3:00 PM
+d	2:00 PM
+d	
+32	Which of the Great Lakes is the only one to lie entirely in the United States?
+a	Lake Erie
+b	Lake Superior
+c	Lake Michigan
+d	Lake Huron
+c
+33	Which river forms a natural border between the US and Mexico?
+a	Red River
+b	Mississippi River
+c	Rio Grande
+d	Gila River
+c	
+34	Which is the longest among the four rivers?
+a	Yukon River
+b	Missouri River
+c	Colorado River
+d	Ohio River
+b
+35	How many soldiers died in the Civil War?
+a	116,000
+b	250,000
+c	337,000
+d	620,000
+d
+36	When did the German army under Hitler invade Poland?
+a	1939
+b	1938
+c	1937
+d	1936
+a
+37	How many different colors on Flag of Canada?
+a	2
+b	3
+c	4
+d	5
